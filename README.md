@@ -34,7 +34,7 @@ pip install virtualenv
 Creando el entorno virtual
 ```sh
 python -m venv virtualenvs
-``
+```
 
 Esto nos generará una carpeta con el  nombre virtulenvns, nos dirigimos a la ruta virtualenvs/Scrips/
 
