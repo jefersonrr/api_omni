@@ -31,7 +31,7 @@ pip install virtualenv
 
 > Nota: Realizamos  la clonación del proyecto y  Situados en la carpeta raiz del proyecto
 
-nos situamos en una carpeta raiz y cremos el entorno virtual.
+Creando el entorno virtual
 ```sh
 python -m venv virtualenvs
 ``
