@@ -55,7 +55,7 @@ Corriendo el proyecto de forma local
 ```sh
 python manage.py runserver 
 ```
-Nos situamos en el navegados y buscamos localhos:800
+>Nos situamos en el navegados y buscamos localhost:8000
 
 > **Autor :**
 > - jeferson Rodriguez Ramirez, jefersonrr04@gmail.com
